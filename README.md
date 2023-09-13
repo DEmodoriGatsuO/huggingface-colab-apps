@@ -9,8 +9,8 @@ All colab notebook
 
 | Notebook  | Description |
 |:-|:-|
-| [01_japanese-large-lm-gui.ipynb](01_japanese-large-lm-gui.ipynb)  | LINE japanese-large-lm |
-| [02_japanese_large_lm_3_6b_instruction_sft.ipynb](02_japanese_large_lm_3_6b_instruction_sft.ipynb)  | LINE　japanese-large-lm-3-6b-instruction  |
+| [01_japanese-large-lm-gui.ipynb](https://github.com/DEmodoriGatsuO/huggingface-colab-apps/blob/main/01_japanese_large_lm_gui.ipynb)| LINE japanese-large-lm |
+| [02_japanese_large_lm_3_6b_instruction_sft.ipynb](02_japanese_large_lm_3_6b_instruction_sft.ipynb)  | LINE japanese-large-lm-3-6b-instruction  |
 
 
 ## Respect
